@@ -1,0 +1,22 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+push_swap
+
+# Vagrind
+*.dSYM
+
+# VSCode state
+.vscode
+
+# Libft
+Libft/
